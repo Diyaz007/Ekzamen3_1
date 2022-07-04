@@ -42,7 +42,7 @@ public class Main {
         System.out.println("HashSet");
         System.out.println(arrays);
         }
-
+//В HashSet невозможно сортировать так как HashSet cортирует по размеру HashCode
 
     }
 
